@@ -74,8 +74,4 @@ export const technologiesAndLanguages: { name: string; iconURL: IconType }[] = [
     name: 'Php',
     iconURL: SiPhp
   }
-{
-    name: 'Css',
-    iconURL: SiCss,
-  }
 ];
