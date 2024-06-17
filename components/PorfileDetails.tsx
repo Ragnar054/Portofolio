@@ -71,7 +71,7 @@ export default function PorfileDetails({ discord }: {discord: DiscordUserData | 
           </div>
         ) : (
           <div className={'w-36 rounded-full mb-4 md:mb-0 ring ring-primary ring-offset-base-100 ring-offset-2'}>
-            <Image className='rounded-full hover:opacity-75 transition duration-700' src={'https://cdn.discordapp.com/attachments/1154444966429462578/1251213867993006090/1402072019322591028550524.jpg?ex=666dc338&is=666c71b8&hm=63141524ef9ad05011be00e22c0cb1a573744f99a7cd12ce254eb9909f7db063&'} alt='avatar' width={1024} height={1024} />
+            <Image className='rounded-full hover:opacity-75 transition duration-700' src={'https://cdn.discordapp.com/attachments/1154444966429462578/1252236427928797234/icarddiii_pembe.png?ex=66717b8d&is=66702a0d&hm=b2497cea808158d8eed2f6f0562e3db255cdfba032226fefe3747d8936c90014&'} alt='avatar' width={1024} height={1024} />
           </div>
         )}
       </div>
