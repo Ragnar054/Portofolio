@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
   icons: 'https://cdn.discordapp.com/attachments/1174845295209742386/1276651201320190037/8838b17ac239227c26d7c96520898020.png?ex=66cc47d5&is=66caf655&hm=6c51ed00268b479cbd471c9c86bd0ed4895af83dfa79a49b018c14d9c1a8a99f&',
   openGraph: {
-    images: 'https://cdn.discordapp.com/attachments/1174845295209742386/1276651201320190037/8838b17ac239227c26d7c96520898020.png?ex=66cc47d5&is=66caf655&hm=6c51ed00268b479cbd471c9c86bd0ed4895af83dfa79a49b018c14d9c1a8a99f&',
+    images: 'https://media.discordapp.net/attachments/1174845295209742386/1276651201320190037/8838b17ac239227c26d7c96520898020.png?ex=66cc47d5&is=66caf655&hm=6c51ed00268b479cbd471c9c86bd0ed4895af83dfa79a49b018c14d9c1a8a99f&=&format=webp&quality=lossless&width=212&height=367',
   },
 };
 
